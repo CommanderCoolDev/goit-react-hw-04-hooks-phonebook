@@ -1,0 +1,25 @@
+.btn {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  color: #000000;
+  background: #bbddbe;
+  text-transform: uppercase;
+  font-weight: 700;
+  border: #000000 solid 1px;
+  margin-left: 10px;
+  cursor: pointer;
+  box-shadow: 2px 2px 4px #000;
+}
+.btn:hover,
+.btn:focus {
+  box-shadow: 4px 4px 9px #000;
+
+  background: #86dace;
+}
+.item {
+  margin-bottom: 10px;
+}
+.span {
+  margin-left: 10px;
+}

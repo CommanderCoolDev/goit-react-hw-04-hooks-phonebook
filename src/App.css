@@ -1,0 +1,12 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  background: url('https://cdn.pixabay.com/photo/2018/08/21/23/29/forest-3622519_960_720.jpg');
+  background-size: cover;
+}
+.block {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
